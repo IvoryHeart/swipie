@@ -1,1 +1,1 @@
-# Swipie with Meteor and Reach
+# Swipie with Meteor and React
